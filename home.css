@@ -2,6 +2,41 @@ body {
     background:white;
   }
 
+  .product{
+    display:inline-block;
+    width:100%;
+  }
+  .model{
+    float:left;
+    width:50%;
+    color:lightgray
+  }
+  .model1{
+    float:left;
+    width:30%;
+    text-align:right;
+    color:lightgray
+  }
+  .model2{
+
+    float:left;
+    width:20%;
+    text-align:center;
+    font-size:25px;
+  }
+
+  
+  span{
+    color:lightgray;
+    font-weight:bold;
+  }
+ 
+  sub{
+    color:lightgray;
+    font-size:10px;
+  }
+  
+
   #calc {  
     text-align: center;
     width: 450px; 
